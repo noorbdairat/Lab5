@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lab2testbdairat",
+  "private_key_id": "7cc19954001d87c1ee4ce928ea3b57bca0b2cd1e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDO5GXGg3tdBgA4\na7lPZI4osGq21hUIwNHEvR7/XNvdcci8IERqfO+CiWApmSCVNTmZhXBXDyeVDj9i\nzOfyW7E9/7iufn0oDkK2OJ8fA/2XKH516oFp8VJSVQUyLxXxO7pJ8Zp68uh4vnqT\n57IR0qT19HikBSWYziDo8fv77Xp0tHs/txMPYDBwY4jgFHNiLEh2PKqN47dTwXFG\nTF1Eu8WUiluJVK2GNY/9wKu/RiEu/UWCw3MnWhNO5pgr3dAiZCtpk0FRaPRSCXdb\nxiDjKlQzhvhgiG2k3ZVh9iRjSTlOuMbZtxOpSt6FWTfPbi1whAvQaaiq9OHKFG0V\nGNkrLVBbAgMBAAECggEASqVaWSjoMhRvsOuhBRWdOu4H2qbcGPfk12x6yhzZUQj0\nKXgk5xzjl3/0O539hQgam5rrAOY9XEizMvUGPMm7ZcilfAO0KWcXx8IfGyQn80lP\nc0DkZ3KDxqPZR5V4f7yShopOt8x7dtEWzdV7SHXtQbZubpNS0NKSSinAxlEU7RTo\nUFWSAEUm7zQYYmTbnBlpykLIsQG+W9v3exOgk/3pUAN6zsXFIZeU2VP8CRvWp/Bs\nbL1EjJ24NosHPMYlylm2wFfc0YwLBRsiK77nnu4kHxRVxZuN7PiOhG+Xa48bxYH5\nz1rK4d9EG1KjrfK5RvPNe33tKcJ7ayH75XvnMALoDQKBgQD9AGfKllioULl0Oct0\nPtItamV9iX3ggNglAFQ9ISNmFIY9kLvd00RpebyqooB3V0QscwqCTIwkVJZwBDX9\nJygvx+B/iyztTVsVDOHeVBLhpsFJ7WzWP/hmBUX/dMMgCaRrTDMfGqw9nfu/9kce\nNL878rF054tl9CtsqgzZESQJTQKBgQDRWBkx/NjKiRfkzTQ/WHpPfma3GKZOuMW9\nYNAFrtjLGHC9/Dp4MdJkjC5Brl6Qfp/y/7ELjefcD5cUKm8PRk+rg6ifGmsHwh+D\nbvQpCBpXz65TH2M/LGWcLh3H/qTwqHcC7Z82zZ4wtlsdBIZhNeDWWRhJVVICgDU9\n+97wNCusRwKBgQCXtCOIPWiB3I2nXHRbisO6Sb77bHMXKAry/OSGFxXDwvDPf7a2\nh1TRLhbr9i6z4JbXVE/r23x42GOwXUYGOvGE3QQHVmulCypfT+8rwhvkRHpIGt6V\nBZyrh+P2Doxl7IIzeGh68SJwfAeVjlYMjbJRfu/bWm+ivatAKCM2EWobTQKBgBfD\n+JhELBhSF/RRl2zZjokXwHFoyviE4W3uX69FejcUPzhSOhELFudzQo0STon41g+w\nF1lIctn4qx4O8yy4vrKp76qgRSZMU2eIYQ+Ha/YsDY5CMfIqCB8C3T6nGfJ4LYqX\nj0uZbCv7h7xzlw3SIAQ1eRxaI0VFaMXwog6C3bJhAoGBAINw+PciUwYgTz7msoEU\nHuNLDsHY2vJ1j/3wqRihz9K+NHXWzz961EnvxRpXCZEhgGc5454d1phhGlNhwA5R\nbjPhMCYXeBXhXSV700WFwA8rpVL94VsC2licw5Bse7TZF3DOgBlLX6QGeN1Ot3k+\n9hmbrJKDwhn0wj/NJ1kjea8s\n-----END PRIVATE KEY-----\n",
+  "client_email": "lab2-circleci-service-account@lab2testbdairat.iam.gserviceaccount.com",
+  "client_id": "108101872355043650185",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lab2-circleci-service-account%40lab2testbdairat.iam.gserviceaccount.com"
+}
